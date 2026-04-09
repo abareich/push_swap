@@ -1,4 +1,4 @@
-# push_swap — Resume du projet
+## push_swap — Resume du projet
 
 **Resume**
 Ce projet consiste a trier une pile d'entiers avec un deuxieme stack et un ensemble limite d'operations. Le programme lit les arguments, valide les donnees, puis affiche la suite d'operations qui met la pile A en ordre croissant (du sommet vers la base).
